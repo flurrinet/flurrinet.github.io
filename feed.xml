@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cotxes flurri blog</title>
+    <description>Blog personal de Ferri</description>
+    <link>https://flurrinet.github.io/</link>
+    <atom:link href="https://flurrinet.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Feb 2024 08:15:37 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 08:15:37 +0100</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Coches Flurri.net</title>
+        <description>&lt;h2 id=&quot;oferta-de-finals-de-gener&quot;&gt;Oferta de finals de gener&lt;/h2&gt;
+
+&lt;h2 id=&quot;ford&quot;&gt;Ford&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.ford.es/content/dam/guxeu/rhd/central/cars/2021-focus/launch/billboards/nameplate/ford-focusc519-eu-205334561_ACT_02_C519_Focus_Ext_Profile_Static_V1_MY23-21x9-2160x925-MB-v2.jpg.renditions.original.png&quot; alt=&quot;&quot; /&gt;
+Nou Ford Focus Wagon&lt;/p&gt;
+
+&lt;h2 id=&quot;hyundai&quot;&gt;Hyundai&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coches.com/coches-nuevos/Hyundai-I10/&quot; alt=&quot;dale dale&quot;&gt;&lt;img src=&quot;https://images.coches.com/_vn_/hyundai/i10/e94db9b56c118eaf1789f9871abc2865.jpg?p=cc_vn_high&quot; width=&quot;450&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+nou hyundai i10&lt;/p&gt;
+
+&lt;h2 id=&quot;volkswagen&quot;&gt;Volkswagen&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/volkswagen-t-cross.jpg&quot; alt=&quot;T-cross&quot; /&gt;
+nou t-cross&lt;/p&gt;
+
+&lt;h2 id=&quot;porsche&quot;&gt;Porsche&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/macan.jpg&quot; alt=&quot;Mancan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;nou macan&lt;/p&gt;
+
+&lt;h2 id=&quot;opel&quot;&gt;Opel&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Grandland.jpg&quot; alt=&quot;&quot; /&gt;
+nou opel GrandLand&lt;/p&gt;
+
+&lt;h2 id=&quot;toyota&quot;&gt;Toyota&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/yaris.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;nou yaris cross&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2021 13:00:00 +0100</pubDate>
+        <link>https://flurrinet.github.io/2021/01/19/ferricotxes/</link>
+        <guid isPermaLink="true">https://flurrinet.github.io/2021/01/19/ferricotxes/</guid>
+        
+        <category>cotxes</category>
+        
+        <category>Ford</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
